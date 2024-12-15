@@ -23,11 +23,7 @@ DanyMotilla@github
 
 </td>
 <td width="50%">
-
-<a href="https://app.daily.dev/danielmotilla"><img src="https://api.daily.dev/devcards/v2/dExziijytUTpZXgi9a83J.png?type=wide&r=k2y" width="100%" alt="DanielMotilla's Dev Card"/></a>
-
-<img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/danymotilla-1721044205.png" width="40%" alt="dat me" /> <img src="https://pbs.twimg.com/media/GdQAKUZaoAEOWBT?format=jpg&name=large" width="58%" alt="geometric art" />
-
+<img src="https://pbs.twimg.com/media/GdQAKUZaoAEOWBT?format=jpg&name=large" width="100%" alt="geometric art" />
 </td>
 </tr>
 </table>
