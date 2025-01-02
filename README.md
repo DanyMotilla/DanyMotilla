@@ -15,7 +15,7 @@ DanyMotilla@github
     • Shading: GLSL, HLSL
     • Graphics: Vulkan
     • 3D: Blender (Geometry Nodes + bpy)
-    • Programming: Python, Rust, Racket
+    • Programming: Python, C++, Rust, Racket
 🎯 Currently developing Modelita - a DSL for 3D modeling
 🖌️ Love creating geometric art and procedural systems
 ```
