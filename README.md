@@ -3,21 +3,21 @@
 ```text
 DanyMotilla@github
 -----------------
-🎨 Technical Artist & Graphics Programmer
+🎨 Graphics Programmer
 🔍 Interests:
     • Geometric Computing (computational geometry, geometry processing)
-    • Form Generation (parametric modeling, procedural systems)
-    • Shaders
+    • Form Generation (parametric modeling, computational design, procedural systems)
+    • Shader programming
     • Real-time Rendering
 🔭 Working on Implicit Geometry and other crazy stuff at Gradient Control Labs
 🌱 Learning DSL development
 🌟 Languages & Tools:
-    • Shading: GLSL, HLSL
-    • Graphics: WebGL, WebGPU, Vulkan (I can do a triangle in vulkan)
-    • 3D: Blender (Geometry Nodes + bpy) (geometry nodes lover)
-    • Programming: Python, C++, Rust, Racket (my favorite one) , Javascript/Typescript (I ended up doing a lot webdev ¯\_(ツ)_/¯ )
+    • Graphics: OpenGL, WebGL, WebGPU, GLSL
+    • 3D: Blender (Geometry Nodes + bpy)
+    • At Work: Javascript/Typescript, React, Three.js Fiber, Python
+    • My favorite ones: Racket, Rust
 🎯 Currently developing LIMBO a semiautomated prosthetic platform. Input a CTSCAN get a prosthetic with your measurements.
-🖌️ Love creating geometric art and procedural systems
+🖌️ Love creating geometric art.
 ```
 
 <img src="https://pbs.twimg.com/media/GdQAKUZaoAEOWBT?format=jpg&name=large" width="100%" alt="geometric art" />
