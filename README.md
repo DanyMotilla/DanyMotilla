@@ -5,7 +5,7 @@ DanyMotilla@github
 -----------------
 🎨 Graphics Programmer
 🔍 Geometric Computing & Real-time Rendering
-🔭 Working on Implicit Geometry at Gradient Control Labs
+🔭 Working on Implicit Geometry
 🌟 Rust • Racket • wgpu
 🎯 Building LIMBO - semiautomated prosthetic platform
 🖌️ Creating geometric art
