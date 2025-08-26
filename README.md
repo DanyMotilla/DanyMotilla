@@ -7,7 +7,7 @@ DanyMotilla@github
 🔍 Geometric Computing & Real-time Rendering
 🔭 Working on Implicit Geometry
 🌟 Rust • Racket • wgpu
-🎯 Building LIMBO - semiautomated prosthetic platform
+🎯 Building MODELITO and UGF Toy
 🖌️ Creating geometric art
 ```
 
