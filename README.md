@@ -6,7 +6,6 @@ DanyMotilla@github
 🎨 Graphics Programmer
 🔍 Geometric Computing & Real-time Rendering
 🔭 Working on Implicit Geometry
-🌟 Rust • Racket • wgpu
 🎯 Building MODELITO and UGF Toy
 🖌️ Creating geometric art
 ```
