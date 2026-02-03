@@ -1,5 +1,6 @@
 <div align="left" width="100%">
-text
+
+```text
 DanyMotilla@github
 -----------------
 🎨 Graphics Programmer in love with geometry.
@@ -16,5 +17,6 @@ Real-time rendering, procedural generation, and geometric computing.
 
 ---
 🔗 [m0th.bearblog.dev](https://m0th.bearblog.dev)
+```
 
 </div>
